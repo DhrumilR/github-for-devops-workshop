@@ -1,0 +1,40 @@
+python testing.py
+clear
+ls
+ls -l
+rm testing.py
+clear
+git init
+ls -a
+ls -Force...
+clear
+git status
+ls
+clear 
+clear
+ls
+clear
+git status
+clear
+git add testing.py
+git status
+ git commit -m "added testing files"
+git ststus
+ clear
+ rm testing.py
+ls
+git status
+ git restore testing.py
+ ls
+clear
+git status
+git add .
+git status
+git commit -m "added git commands"
+git status
+clear
+git remote add origin https://
+git remote -v
+git remote set-url origin https://
+git remote -v
+git push origin master
